@@ -4,3 +4,6 @@
   <source src="https://www.example.com/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+[Watch the video](https://www.youtube.com/watch?v=VIDEO_ID)
